@@ -11,6 +11,31 @@ This is a fan-made game of the board game [Here to Slay](https://www.unstablegam
 * This will be a card game where you fight monsters and assemble a party, and upgrade them with gear!
   * The goal will to follow the rules from the board game and implement the logic from said rules, cards, monsters, and party leaders.
 
+## Features
+* [ ] Base Game Assets
+  * [ ] Party Leaders & Heros
+  * [ ] The Monsters
+  * [ ] Challenges
+  * [ ] Modifiers
+  * [ ] Spells and Items
+  * [ ] Dice
+* [ ] Expansion Pack Assets
+* [ ] Dice Rolling on Player Turn
+* [ ] Standard Rule Logic on a player's turn
+  * [ ] Action Points
+  * [ ] Drawing Cards
+  * [ ] Magic and Items
+  * [ ] Challenges
+  * [ ] Modifier Effects
+  * [ ] Player Placespace, Monster positions, Deck positions
+* [ ] How to Play section
+  * [ ] Tutorials
+  * [ ] Important Terms while playing
+  * [ ] Game win conditions
+  * [ ] The Monsters
+* [ ] Multiplayer
+  * [ ] Singleplayer mode
+
 ## Game Engine Considerations
 * [Unity](https://unity.com/)
     * [Unity Hub](https://unity.com/download)
